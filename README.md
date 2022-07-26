@@ -1,8 +1,6 @@
-Hello, I am Adnan
-I am interested in AI/ML 
-I am currently pursuing my BTech in Computer Science
-I’m looking to collaborate on Data Science projects
-You can reach me via my email
+Syed Adnan Mohamed
+Passionate towards Data Science, Mathematics,Statistics and Artificial Intelligence/Machine Learning 
+Currently pursuing BTech in Computer Science and Technology
 
 <!---
 astro274/astro274 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
